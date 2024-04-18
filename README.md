@@ -1,3 +1,6 @@
+![alt text](./screenshot/buying.png "Architecture")
+
+
 ```bash
 server:
   port: 8080
